@@ -1,0 +1,4 @@
+Rechnungsnummer,Kundenname,Strasse,Hausnummer,PLZ,Ort,Land,Betrag,Waehrung,Referenznummer,Mitteilung
+RE-2026-001,Alpen Treuhand AG,Postgasse,12,8001,Zürich,CH,450.00,CHF,210000000003139471430009017,Jahresabschluss 2026
+RE-2026-002,Matterhorn Tech GmbH,Bahnhofplatz,4,3920,Zermatt,CH,1200.00,CHF,210000000003139471430009025,Software Lizenz Q4
+RE-2026-003,Vierwaldstätter Logistik,Seestrasse,88,6003,Luzern,CH,890.50,CHF,210000000003139471430009033,Frachtdienstleistungen
