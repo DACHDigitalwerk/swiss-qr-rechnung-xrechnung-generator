@@ -1,0 +1,31 @@
+SPC
+0200
+1
+CH4431999123000889012
+S
+DACH Digitalwerk Solutions AG
+Bahnhofstrasse
+10
+8001
+Zürich
+CH
+
+
+
+
+
+
+
+1450.00
+CHF
+S
+Musterkunde AG
+Hauptstrasse
+5
+3000
+Bern
+CH
+QRR
+210000000003139471430009017
+Rechnung 2026-1042 / Cloud Architecture
+EPD
